@@ -3,11 +3,11 @@ I’ve been diving deep into the PyTorch framework, which has become my go-to to
 
 🧠 What I’ve Been Learning
 
-*PyTorch framework for deep learning
-*Building and training neural networks from scratch
-*Computer vision and NLP applications
-*Optimization techniques to enhance model performance
-*Implementing transfer learning and fine-tuning with pre-trained models
+- PyTorch framework for deep learning
+- Building and training neural networks from scratch
+- Computer vision and NLP applications
+- Optimization techniques to enhance model performance
+- Implementing transfer learning and fine-tuning with pre-trained models
 
 
 
